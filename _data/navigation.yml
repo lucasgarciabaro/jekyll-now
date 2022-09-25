@@ -1,0 +1,26 @@
+- id: work
+  name: Què fem?
+  link: '/#work'
+  dropdown:
+    - id: products
+      name: Codifiquem
+      link: '/products.html'
+    - id: workshops
+      name: Descodifiquem
+      link: '/workshops.html'
+- id: team
+  name: Nosaltres
+  link: '/#team'
+- id: projects
+  name: Projectes
+  link: '/#projects' 
+  dropdown:
+    - id: archive
+      name: Arxiu de projectes
+      link: '/archive.html' 
+- id: contact
+  name: Contacte
+  link: '/#contact'
+- id: blog
+  name: Blog
+  link: /blog
